@@ -48,9 +48,10 @@ The packaged plugin will be available in the `dist/` directory.
 ## Usage
 
 1. Hover over any message you want to quote
-2. Click the four dots menu (⋮)
-3. Select "Quote message"
-4. The quoted message will appear in your composer with proper formatting
+2. Click on the "Message Action" icon (four small squares) <br>
+<img alt="image" src="https://downloader.disk.yandex.ru/preview/dd4a50b466babb661a6ae1a01f09e37505d3534371951cb679bf5c18aac29f74/6972537f/njHbbXdzOyI6VaEjwSjFIjiOqpXDDSGmNKj-zB8A05yExqt3ftdrN90J_4zSreBjAbMQQUxTZ9IQasUzprG1lw%3D%3D?uid=0&filename=4sq.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048" /> 
+4. Select "Quote message"<br>
+5. The quoted message will appear in your composer with proper formatting
 
 ## Contributing
 
